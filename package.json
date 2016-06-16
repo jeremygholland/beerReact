@@ -1,0 +1,28 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "this is a test react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremygholland/beerReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jeremygholland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremygholland/reactApp/issues"
+  },
+  "homepage": "https://github.com/jeremygholland/reactApp#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
