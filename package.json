@@ -6,10 +6,6 @@
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeremygholland/beerReact.git"
-  },
   "keywords": [
     "react"
   ],
